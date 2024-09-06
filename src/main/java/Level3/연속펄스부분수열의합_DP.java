@@ -28,6 +28,5 @@ public class 연속펄스부분수열의합_DP {
         }
         return answer;
     }
-
 }
 
